@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-tff2yx.elecpaypa.com/sitemap.xml
